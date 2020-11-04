@@ -1,0 +1,101 @@
+ls 
+exit
+exit 
+mpc load varied
+mpc load Varied
+cd 
+c
+clear 
+ls 
+cd .mpd
+ls 
+cd playlists/
+ls 
+mpc load Asian
+mpc load R\&B\ HH\ RAP.m3u
+mpc load R\&B\ HH\ RAP
+exit
+clear 
+ncmpcpp
+clear 
+ls 
+exit 
+clear 
+clear 
+clear 
+clear 
+ls 
+rm init.el\~
+clear 
+clear 
+ls 
+cd 
+c
+clear 
+defalias c clear 
+(defalias 'c clear)
+(defalias 'c 'clear)
+c
+clear 
+figlet uwu
+cd /usr/share/xsessions
+clear 
+ls 
+cp dwm.desktop exwm.desktop
+clear 
+find-file exwm.desktop
+CLEAR 
+clear 
+ls 
+cd 
+c
+clear 
+ls 
+picom --experimental-backends
+lear 
+clear 
+setxkbmap -option caps:swapescape
+clear 
+dmenu_run -h 31 -p "RUN"
+clear 
+indicator-kdeconnect 
+clear 
+polybar example 
+clear 
+dmenu_run
+dmenu 
+clear 
+rofi -show drun
+clear 
+killall firefox
+clear 
+killall firefox
+setxkbmap -option caps:swapescape
+clear 
+natscroll
+cd
+cd .scripts 
+ls 
+./natscroll
+clear 
+cd 
+:q
+pactl set-sink-volume @DEFAULT_SINK@ 100%
+pactl set-sink-volume @DEFAULT_SINK@ 150%
+clear 
+cd 
+cd .scripts/
+clear 
+ls
+./dkde
+./dkde
+clear 
+cd 
+c
+clear 
+unnethack
+clear 
+clear 
+clear 
+clear
+clear 

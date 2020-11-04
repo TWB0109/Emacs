@@ -1,0 +1,1 @@
+(define-key evil-read-key-map (kbd "C-v") #'evil-read-quoted-char)

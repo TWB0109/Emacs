@@ -1,0 +1,2 @@
+;;; Generated package description from /home/brandon/.emacs.d/elpa/tidal-20200523.833/tidal.el  -*- no-byte-compile: t -*-
+(define-package "tidal" "20200523.833" "Interact with TidalCycles for live coding patterns" '((haskell-mode "16") (emacs "24")) :commit "9b1595b682f547400cf0f77de51f7b0c9d904f0a" :keywords '("tools") :authors '((nil . "alex@slab.org")) :maintainer '(nil . "alex@slab.org") :url "https://github.com/tidalcycles/Tidal")

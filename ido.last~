@@ -1,0 +1,81 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/brandon/dox/" . "haskell/")
+ ("/home/brandon/.config/" . "i3/")
+ ("/home/brandon/" . ".emacs.d/")
+ ("/home/brandon/.emacs.d/elpa/" . "tidal-20200523.833/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/brandon/.emacs.d/"
+ "/home/brandon/"
+ "/home/brandon/.xmonad/"
+ "/home/brandon/.emacs.d/elpa/tidal-20200523.833/"
+ "/home/brandon/dox/haskell/"
+ "/home/brandon/dox/haskell/haskell-music/"
+ "/home/brandon/vimwiki/"
+ "/home/brandon/.org/"
+ "/home/brandon/.config/i3/"
+ "/home/brandon/.emacs.d/elpa/doom-modeline-20201005.1358/"
+ "/home/brandon/.emacs.d/.cache/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "dotfiles"
+ "xmonad.hs"
+ "tidal.el"
+ "helloworld.tidal"
+ "haskellrank.hs"
+ "x"
+ "Main.hs"
+ "index.wiki"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/brandon/.emacs.d/" (24482 238 644684 402000) "ido.last" ".local/" "init.el" ".cache/" "request/" "url/" "eshell/" "../" "network-security.data" "ido.last~" "./" "auto-save-list/" "dmenu-items" "init.el~" "elpa/")
+
+ ("/home/brandon/" (24482 238 798018 803000) ".node_repl_history" ".kdeconnect.sh" ".fluxbox/" ".subversion/" ".vim/" ".adom.data/" ".sync/" ".rstudio-desktop/" ".chromedriver/" ".java/" ".nothing.md.gpg" ".zshrc.pre-oh-my-zsh" ".audacity-data/" ".local/" ".viminfv.tmp" ".diablorl/" ".dir_colors" ".mozilla/" ".zeldas.md" ".fceux/" ".var/" ".lyxauth" ".gnome-lyrics-extension/" ".gitconfig" ".viminfj.tmp" ".sh_history" ".omnisharp/" "Applications/" "go/" ".xsession-errors" ".hplip/" ".dotnet/" ".nvm/" ".viminfs.tmp" ".zcompdump-brandon-pc-5.8.brandon-pc.200037" "GNUstep/" ".moc/" ".covers/" ".kde4/" ".ncpamixer.conf" "vid/" ".org/" ".Xresources" ".gnupg/" ".yarn/" ".viminfm.tmp" ".abduco/" ".profile" ".designer/" ".viminfk.tmp" ".rofi/" ".openjfx/" ".keystrings" ".dosbox/" ".steampid" ".fonts/" ".parallel/" ".ICEauthority" ".pki/" ".tht/" ".cache/" ".viminff.tmp" ".scripts/" ".bash_logout" ".pseint/" ".tooling/" ".cabal/" ".fzf.zsh" ".hyper.js" ".nuget/" ".thumbnails/" ".deepin-screen-recorder/" ".ncmpcpp/" "howto.md" ".ludo/" ".fehbg" ".thunderbird/" ".viminfo.tmp" ".minestein/" ".viminfg.tmp" "pix/" ".cargo/" ".emacs.d/" "Games/" "PDots/" ".mtab.fuseiso" ".dmrc" ".spf13-vim-3/" "VirtualBox VMs/" ".mplayer/" ".xsession-errors.old" ".fzf.bash" ".stack/" ".mpdnotify.log" ".stalonetrayrc" ".profile_mycroft" "slant.flf" ".irssi/" ".npm/" ".alda/" ".data-store/" ".viminfo" ".gimp-2.8/" ".viminfc.tmp" ".vmail/" ".yarnrc" ".viminfh.tmp" ".recoverttnt" ".vscode-oss/" ".Rhistory" ".bash_profile" ".vimrc" ".hyper_plugins/" ".spectrwm.conf" ".android/" ".mono/" ".vmailrc" ".bashrc" ".viminfw.tmp" ".zcompdump-brandon-pc-5.8.brandon-pc.88003" ".zsh_history" ".zcompdump-brandon-pc-5.8.brandon-pc.457863" ".links/" ".swt/" ".viminfb.tmp" ".scim/" ".stumpish_history" ".alda-repl-history" ".rgb.txt" ".themes/" "desktop/" ".viminfp.tmp" ".zprofile" ".pulse-cookie" ".viminfq.tmp" ".xprofile" ".wget-hsts" ".shatteredpixel/" ".bash_history" ".lesshst" ".history" ".Xclients" "node_modules/" "dox/" ".brz.log" ".texlive/" ".pandoc/" ".conkyrc" ".ssh/" ".tmux/" "howto.pdf" ".rustup/" ".ghc/" ".pdf" ".zcompdump-brandon-pc-5.8.brandon-pc.30526" ".layouts/" ".viminfz.tmp" "src/" ".com.xiaomitool.v2.gui.MainWindow/" ".ccache/" ".gnome/" ".mkshrc" ".screenlayout/" ".python_history" ".viminfu.tmp" ".trans_history" ".zcompdump-brandon-pc-5.8.brandon-pc.474827" ".fltk/" ".Xauthority" ".anydesk/" ".chrome/" ".taskrc" ".viminfy.tmp" ".emulationstation/" ".cortex/" ".inxi_info" ".viminft.tmp" ".steam/" ".notmuch-config" "vimwiki/" ".surf/" ".urxvt/" ".steampath" ".viminfd.tmp" ".siren/" ".conky/" ".xonshrc" ".esd_auth" ".viminfi.tmp" ".walthemes/" ".r/" ".xinitrc" ".icons/" ".config/" ".nbi/" "dotfiles/" ".purple/" ".zsnes/" ".rnd" ".gervill/" ".stowrc" "vimwiki_html/" ".shortener" ".lyrics/" ".shutter/" "Drive/" ".templateengine/" ".i3/" ".mpd/" ".misc/" ".zshrc" "music/" ".gmrun_history" ".arbitrarynumbers" ".gradle/" ".tmux.conf" ".python_history-30246.tmp" "canvas/" ".oh-my-zsh/" ".darkplaces/" ".Maelstrom-data" "books/" ".irb_history" ".gtk-bookmarks" ".task/" ".xmonad/" ".Xresources.bak" ".lmmsrc.xml" ".viminfe.tmp" ".zshrc.pre-oh-my-zsh-2020-10-22_12-05-48" ".gem/" ".gnome2_private/" ".gnome2/" ".xscreensaver" ".fzf/" ".zcompdump-brandon-pc-5.8" ".electron-gyp/" ".w3m/" ".powermenu.sh" ".gtkrc-2.0" ".renpy/" ".viminfx.tmp" "downloads/" ".jd/" ".gvimrc" ".p10k.zsh" ".idlerc/" "XiaomiADBFastbootTools/" ".ssr/" ".wine/" ".unnethackrc" ".clockywock" ".zcompdump-brandon-pc-5.8.brandon-pc.89255" ".pylint.d/" ".sconsify/" ".nedit/" ".viminfn.tmp" ".viminfr.tmp" ".npmrc" ".viminfl.tmp" "../" "./")
+
+ ("/home/brandon/dotfiles/" (24476 45202 640909 61000) "alacritty/" "picom/" "README.md" "zshrc/" "xresources/" "xinitrc/" "bashrc/" "vim/" "i3/" "ncmpcpp/" "polybar/" "../" "dunst/" ".stowrc" "./" "scripts/" ".git/" "tmux/" "mpd/")
+
+ ("/home/brandon/dotfiles/i3/" (24468 52770 301105 40000) "../" ".config/" "./")
+
+ ("/home/brandon/dotfiles/i3/.config/" (24468 52763 617745 803000) "i3/" "../" "./")
+
+ ("/home/brandon/.xmonad/" (24481 60988 378024 211000) "xmonad.hs" "xmonad-x86_64-linux" "../" "xmonad.errors" "xmonad.o" "./" "xmonad.hi")
+
+ ("/home/brandon/.emacs.d/elpa/tidal-20200523.833/" (24478 3237 756786 165000) "tidal.el" "tidal.elc" "../" "tidal-autoloads.el" "./" "tidal-pkg.el")
+
+ ("/home/brandon/.emacs.d/elpa/" (24478 3236 670118 505000) "bind-key-20200805.1727/" "counsel-css-20200331.632/" "counsel-20200922.1006/" "monitor-20161018.1144/" "xelb-0.18/" "pulseaudio-control-20200406.752/" "ht-20200217.2331/" "xelb-0.18.signed" "use-package-20200721.2156/" "goto-chg-20201008.1110/" "lv-20200507.1518/" "s-20180406.808/" "dash-20200803.1520/" "request-20200517.1305/" "pfuture-20200425.1357/" "shrink-path-20190208.1335/" "exwm-0.24.signed" "undo-tree-0.7.5.signed" "doom-modeline-20201005.1358/" "async-20200809.501/" "tidal-20200523.833/" "gruvbox-theme-20200807.855/" "autothemer-20180920.923/" "f-20191110.1357/" "evil-collection-20201017.851/" "swiper-20200503.1102/" "counsel-web-20200313.5/" "hydra-20200711.1210/" "dash-docs-20200516.1943/" "../" "undo-tree-0.7.5/" "tablist-20200427.2205/" "ace-window-20200606.1259/" "archives/" "memoize-20200103.2036/" "all-the-icons-20200923.1339/" "vterm-20201004.2057/" "evil-20201014.2043/" "pdf-tools-20200512.1524/" "treemacs-20201004.1125/" "god-mode-20200708.2200/" "ivy-20200826.955/" "./" "gnupg/" "annalist-20190929.207/" "evil-nerd-commenter-20201017.1148/" "evil-org-20200922.1933/" "haskell-mode-20200929.2119/" "exwm-0.24/" "avy-20200624.1148/")
+
+ ("/home/brandon/dox/haskell/" (24471 37943 659351 372000) "haskellrank.hs" "../" "./")
+
+ ("/home/brandon/.org/" (24469 58575 756666 472000) "index.org~" "../" "./" "index.org")
+
+ ("/home/brandon/vimwiki/" (24471 14469 645350 50000) "recommendations.wiki" "Basic Knowledge.wiki" "../" "index.wiki" "./" "careers.wiki")
+
+ ("/home/brandon/vid/" (24450 22797 549006 101000) "Peek 27-08-2020 13-09.gif" "../" "mario-2020-09-14_10.54.03.mp4" "tutifruti.mp4" "AnyDesk/" "./" "mario-2020-09-15_21.49.40.mp4" "mnmhm.mp4")
+
+ ("/home/brandon/dox/haskell/haskell-music/" (24471 30732 74898 530000) "Main.hs~" "Main.hs" "../" "./")
+
+ ("/home/brandon/dox/" (24468 42118 78996 287000) "C/" "steady.ai" ".ncmpcpp/" "TEC/" "java/" "Taco Bell + Tapp.pptx" "LaTeX/" "../" "python/" "web/" "AnyDesk/" "MuseScore3/" "./" "Zoom/" "haskell/" "lmms/")
+
+ ("/home/brandon/.config/i3/" (24468 53440 60241 744000) "config" "../" "./")
+
+ ("/home/brandon/.config/" (24469 3557 574508 898000) "octopi/" "gedit/" "bspwm/" "picom_dwm.conf" "gnome-control-center/" "viewnior/" "google-chrome-beta/" "kwinrulesrc" "code-oss/" "alacritty/" "gpick/" "remmina/" "hatari/" "darktable/" "monitors.xml~" "zaap/" "micro/" "knfsshare" "Bitwarden/" "kxkbrc.lock" "volumeicon/" "scribus/" "klavaro/" "Hacknet/" "obs-studio/" "green-recorder/" "morc_menu/" "vlc/" "whatsapp-nativefier-d40211/" "monodoc/" "calcurse/" "Team Phoenix/" "nemo/" "screenkey.json" "openbox/" "Electron/" "autostart/" "Rambox/" "literm/" "discoverrc" "twitchy3/" "pegasus-frontend/" "gnome-boxes/" "neofetch/" "cordless/" "networkmanager-dmenu/" "extraterm/" "pulseaudio-ctl/" "gtkrc-2.0" "picom.conf" "NuGet/" "xfce4/" "kwalletrc" "UNDERTALE_linux/" "Owlboy/" "xmobar/" "plank/" "clipit/" "sxhkd/" "fooapp/" "torbrowser/" "dleyna-renderer-service.conf" "qt5ct/" "kateschemarc" "lutris/" "powermanagementprofilesrc" "lpass/" "cef_user_data/" "nostlan/" "conky-manager.json" "neomutt/" "startupconfigkeys" "systemd/" "gnome-session/" "R/" "nitrogen/" "rofi-web-search/" "configstore/" "tint2/" "Deezloader Remix/" "gtk-3.0/" "libvirt/" "rofi/" "telegramtui/" "Unknown Organization/" "termite/" "deemixgui/" "GIMP/" "ksmserverrc" "kscreenlockerrc" "stumpwm/" "yabar/" "glade.conf" "xob/" "Bitwarden CLI/" "gtk-2.0/" "qoverview.yaml" "desmume/" "trashrc" "galculator/" "spotify-tui/" "gconf/" "kritarc" "kitty/" "gops/" "pix/" "google-chrome-unstable/" "kritadisplayrc" "QtProject.conf" "typiskt/" "konsolerc" "chromium/" "dmenu-recent/" "manjaro/" "awesome/" "onlyoffice/" "geary/" "kminesrc" "stacer/" "easytag/" "q4wine/" "KDE/" "Electron API Demos/" "lxsession/" "ibus/" "Debauchee/" "mpdnotify.conf" "kcalcrc" "lead/" "rslsync/" "gtkrc" "filemanager-actions/" "ario/" "hexchat/" "qtws_Netflix/" "xarchiver/" "zdoom/" "VirtualBox/" "lf/" "libfm/" "krunnerrc" "deluge/" "Kvantum/" "instagram-nativefier-bcbafb/" "guiscrcpy/" "cmus/" "monitors.xml" "Code - OSS/" "xviewer/" "gmpc/" "mgba/" "wf-shell/" "bakamplayer.ini" "mupen64plus/" "inkscape/" "i3/" "vimb/" "user-dirs.dirs" "teamviewer/" "wayfire/" "libaccounts-glib/" "sbp/" "epdfview/" "deemix/" "startupconfig" "qtile/" "git/" "youtube-viewer/" "calibre/" "pavucontrol.ini" "PulseEffects/" "deepin/" "kglobalshortcutsrc" "starship.toml" "polybar/" "dolphinrc" "croc/" "i3-scrot.conf" "filezilla/" "menus/" "powerkit/" "QtProject/" "higan/" "dunst/" "font-manager/" "Kid3/" "bauh/" "balena-etcher-electron/" "latte/" "Thunar/" "RStudio/" "cairo-dock/" "kcminputrc" "vala-panel/" "gsconnect/" "REAPER/" "nautilus/" "spotify/" "RawTherapee/" "kdeglobals" "plasmarc" "wal/" "kded5rc" "bleachbit/" "osdlyrics/" "waybar/" "goa-1.0/" "Hyper/" "unity3d/" "gzdoom/" "brasero/" "retroarch/" "kamosorc" "KawAnime/" "libreoffice/" "sway/" "Popcorn-Time/" "yelp/" "coc/" "session/" "kde.org/" "htop/" "fontconfig/" "gtk-4.0/" "godot/" "asciinema/" "Trolltech.conf" "whatsapp-nativefier-a83695/" "ppsspp/" "Pennywise/" "kconf_updaterc" "dragonplayerrc" "vis/" "plasma-org.kde.plasma.desktop-appletsrc" "akregatorrc" "systemsettingsrc" "evolution/" "kactivitymanagerd-statsrc" "mps-youtube/" "touchpadxlibinputrc" "transmission/" "kdeconnect/" "StardewValley/" "lattedockrc" "plasmanotifyrc" "manjaro-hello.json" "discord/" "albert/" "user-dirs.locale" "gmic/" "anime-downloader/" "libinput-gestures.conf" "baloofilerc" "spicetify/" "snes9x/" "nnn/" "Mousepad/" "kactivitymanagerdrc" "fontforge/" "plasma-localerc" "yay/" "plasma-nm" "pamac/" "vifm/" "mimeapps.list" "qutebrowser/" "kxkbrc" "kdenliverc" "mpDris2/" "ranger/" "BraveSoftware/" "broot/" "pulse/" "light/" "google-chrome/" "mpv/" "Left/" "kwinrc" "mpd/" "rstudio/" "GREYC/" "cava/" "startupconfigfiles" "procps/" "autostart-scripts/" "ktimezonedrc" "dconf/" "whoozle.github.io/" "hiro/" "rclone/" "enchant/" "fish/" "plasmashellrc" "lxqt/" "zathura/" "Notepadqq/" "appimagelauncher.cfg" "pcmanfm/" "teams-for-linux/" "nwg-launchers/" "nvim/" "orage/" "celluloid/" "MuseScore/" "../" "./")
+
+ ("/home/brandon/.emacs.d/elpa/doom-modeline-20201005.1358/" (24459 51727 66487 300000) "doom-modeline-env.el" "doom-modeline.elc" "doom-modeline-core.el" "doom-modeline-pkg.el" "doom-modeline-segments.elc" "doom-modeline-env.elc" "doom-modeline.el" "doom-modeline-segments.el" "../" "doom-modeline-core.elc" "./" "doom-modeline-autoloads.el")
+
+ ("/home/brandon/.emacs.d/.cache/" (24459 61683 332283 828000) "treemacs-persist~" "../" "treemacs-persist" "./")
+
+ ("/home/" (24425 26758 513351 573000) "andrick/" "linuxbrew/" "../" "brandon/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
