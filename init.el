@@ -139,11 +139,6 @@
 	(setq evil-want-integration t)
   :config (evil-mode 1))
 
-;; Evil Org
-(use-package evil-org
-  :after evil
-  :ensure t)
-
 ;; Evil-collection
 (use-package evil-collection
   :after evil
@@ -345,7 +340,7 @@
  '(org-modules
    '(ol-bbdb ol-bibtex ol-docview ol-eww ol-gnus ol-info ol-irc ol-mhe ol-rmail ol-w3m))
  '(package-selected-packages
-   '(magit-gh-pulls transient evil-magit magit pulseaudio-control pdf-tools vterm evil-nerd-commenter exwm haskell-mode god-mode evil-org counsel-web counsel-css treemacs undo-tree doom-modeline use-package gruvbox-theme evil counsel)))
+   '(magit-gh-pulls transient evil-magit magit pulseaudio-control pdf-tools vterm evil-nerd-commenter exwm haskell-mode god-mode counsel-web counsel-css treemacs undo-tree doom-modeline use-package gruvbox-theme evil counsel)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
