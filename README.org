@@ -210,7 +210,7 @@
      (use-package haskell-mode)
      #+end_src
 
-**** EXWM
+**** Exwm
      #+begin_src elisp
      (use-package exwm)
      #+end_src
