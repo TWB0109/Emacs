@@ -1,7 +1,5 @@
 #+TITLE: Emacs Config
 #+PROPERTY:
-* Emacs  Config
-  This is just my humble emacs config, not much to see.
 
 * init.el
 ** MISCELANEOUS SETTINGS
