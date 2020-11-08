@@ -99,7 +99,7 @@
    #+end_src
 
 ** PACKAGES
-*** PACKAGES SETUP
+*** Setup
     #+begin_src elisp
     (require 'package)
 
@@ -118,7 +118,7 @@
     (setq use-package-always-ensure t)
     #+end_src
 
-*** PACKAGES INSTALL
+*** Install
     How To install packages? R/ (use-package package-name)
 
 **** Ivy
